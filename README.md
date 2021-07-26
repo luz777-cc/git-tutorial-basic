@@ -11,3 +11,5 @@ Texto modificado desde visual studio code
 
 Texto modificado desde visual studio code y extensión github  
 linea para ejemplificar un push
+
+Texto modificado para  checar pull
